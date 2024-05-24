@@ -1,11 +1,10 @@
 A web application to learn Swedish with contexts 
 
-Technoligies used:
-  Front-end:
+Front-end:
   - HTML
   - CSS
   - JS
-  Back-end:
+Back-end:
   - ExpressJS
   - Axios
   Database:
