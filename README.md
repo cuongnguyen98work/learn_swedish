@@ -4,8 +4,10 @@ Front-end:
   - HTML
   - CSS
   - JS
+
 Back-end:
   - ExpressJS
   - Axios
-  Database:
+
+Database:
   - PosgreSQL
